@@ -1,0 +1,8 @@
+{
+  "name": "PrecisionCalc - Standard & Scientific Calculator",
+  "description": "A feature-rich, tactile standard and scientific calculator with calculation history tape, memory registers, unit converter, keyboard shortcuts, and sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
